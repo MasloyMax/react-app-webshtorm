@@ -19,6 +19,8 @@ function App() {
         <p>Lorem  insum dolor</p>
         <p>Lorem  insum dolor</p>
         <p>Lorem  insum dolor</p>
+        <p>Lorem  insum dolor</p>
+        <p>Lorem  insum dolor</p>
         <a
           className="App-link"
           href="https://reactjs.org"
